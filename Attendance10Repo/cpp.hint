@@ -1,0 +1,2 @@
+#define ATTENDANCE10REPO_API __declspec(dllexport)
+#define ATTENDANCE10REPO_API __declspec(dllimport)
